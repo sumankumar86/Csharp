@@ -1,0 +1,8 @@
+C:\Training\C# Revision\Count Digit\Count Digit\bin\Debug\Count Digit.exe.config
+C:\Training\C# Revision\Count Digit\Count Digit\bin\Debug\Count Digit.exe
+C:\Training\C# Revision\Count Digit\Count Digit\bin\Debug\Count Digit.pdb
+C:\Training\C# Revision\Count Digit\Count Digit\obj\Debug\Count Digit.csproj.AssemblyReference.cache
+C:\Training\C# Revision\Count Digit\Count Digit\obj\Debug\Count Digit.csproj.SuggestedBindingRedirects.cache
+C:\Training\C# Revision\Count Digit\Count Digit\obj\Debug\Count Digit.csproj.CoreCompileInputs.cache
+C:\Training\C# Revision\Count Digit\Count Digit\obj\Debug\Count Digit.exe
+C:\Training\C# Revision\Count Digit\Count Digit\obj\Debug\Count Digit.pdb

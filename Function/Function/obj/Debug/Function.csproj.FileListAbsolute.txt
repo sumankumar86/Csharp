@@ -1,0 +1,8 @@
+C:\Training\C# Revision\Function\Function\bin\Debug\Function.exe.config
+C:\Training\C# Revision\Function\Function\bin\Debug\Function.exe
+C:\Training\C# Revision\Function\Function\bin\Debug\Function.pdb
+C:\Training\C# Revision\Function\Function\obj\Debug\Function.csproj.AssemblyReference.cache
+C:\Training\C# Revision\Function\Function\obj\Debug\Function.csproj.SuggestedBindingRedirects.cache
+C:\Training\C# Revision\Function\Function\obj\Debug\Function.csproj.CoreCompileInputs.cache
+C:\Training\C# Revision\Function\Function\obj\Debug\Function.exe
+C:\Training\C# Revision\Function\Function\obj\Debug\Function.pdb

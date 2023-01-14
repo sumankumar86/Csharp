@@ -1,0 +1,8 @@
+C:\Training\C# Revision\StringOperation1\StringOperation1\bin\Debug\StringOperation1.exe.config
+C:\Training\C# Revision\StringOperation1\StringOperation1\bin\Debug\StringOperation1.exe
+C:\Training\C# Revision\StringOperation1\StringOperation1\bin\Debug\StringOperation1.pdb
+C:\Training\C# Revision\StringOperation1\StringOperation1\obj\Debug\StringOperation1.csproj.AssemblyReference.cache
+C:\Training\C# Revision\StringOperation1\StringOperation1\obj\Debug\StringOperation1.csproj.SuggestedBindingRedirects.cache
+C:\Training\C# Revision\StringOperation1\StringOperation1\obj\Debug\StringOperation1.csproj.CoreCompileInputs.cache
+C:\Training\C# Revision\StringOperation1\StringOperation1\obj\Debug\StringOperation1.exe
+C:\Training\C# Revision\StringOperation1\StringOperation1\obj\Debug\StringOperation1.pdb

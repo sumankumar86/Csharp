@@ -1,0 +1,8 @@
+C:\Training\C# Revision\SortedList\SortedList\bin\Debug\SortedList.exe.config
+C:\Training\C# Revision\SortedList\SortedList\bin\Debug\SortedList.exe
+C:\Training\C# Revision\SortedList\SortedList\bin\Debug\SortedList.pdb
+C:\Training\C# Revision\SortedList\SortedList\obj\Debug\SortedList.csproj.AssemblyReference.cache
+C:\Training\C# Revision\SortedList\SortedList\obj\Debug\SortedList.csproj.SuggestedBindingRedirects.cache
+C:\Training\C# Revision\SortedList\SortedList\obj\Debug\SortedList.csproj.CoreCompileInputs.cache
+C:\Training\C# Revision\SortedList\SortedList\obj\Debug\SortedList.exe
+C:\Training\C# Revision\SortedList\SortedList\obj\Debug\SortedList.pdb

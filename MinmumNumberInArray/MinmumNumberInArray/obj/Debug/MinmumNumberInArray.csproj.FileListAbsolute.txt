@@ -1,0 +1,8 @@
+C:\Training\C# Revision\MinmumNumberInArray\MinmumNumberInArray\bin\Debug\MinmumNumberInArray.exe.config
+C:\Training\C# Revision\MinmumNumberInArray\MinmumNumberInArray\bin\Debug\MinmumNumberInArray.exe
+C:\Training\C# Revision\MinmumNumberInArray\MinmumNumberInArray\bin\Debug\MinmumNumberInArray.pdb
+C:\Training\C# Revision\MinmumNumberInArray\MinmumNumberInArray\obj\Debug\MinmumNumberInArray.csproj.AssemblyReference.cache
+C:\Training\C# Revision\MinmumNumberInArray\MinmumNumberInArray\obj\Debug\MinmumNumberInArray.csproj.SuggestedBindingRedirects.cache
+C:\Training\C# Revision\MinmumNumberInArray\MinmumNumberInArray\obj\Debug\MinmumNumberInArray.csproj.CoreCompileInputs.cache
+C:\Training\C# Revision\MinmumNumberInArray\MinmumNumberInArray\obj\Debug\MinmumNumberInArray.exe
+C:\Training\C# Revision\MinmumNumberInArray\MinmumNumberInArray\obj\Debug\MinmumNumberInArray.pdb

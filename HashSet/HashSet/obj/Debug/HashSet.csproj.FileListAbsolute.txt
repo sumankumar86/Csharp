@@ -1,0 +1,8 @@
+C:\Training\C# Revision\HashSet\HashSet\bin\Debug\HashSet.exe.config
+C:\Training\C# Revision\HashSet\HashSet\bin\Debug\HashSet.exe
+C:\Training\C# Revision\HashSet\HashSet\bin\Debug\HashSet.pdb
+C:\Training\C# Revision\HashSet\HashSet\obj\Debug\HashSet.csproj.AssemblyReference.cache
+C:\Training\C# Revision\HashSet\HashSet\obj\Debug\HashSet.csproj.SuggestedBindingRedirects.cache
+C:\Training\C# Revision\HashSet\HashSet\obj\Debug\HashSet.csproj.CoreCompileInputs.cache
+C:\Training\C# Revision\HashSet\HashSet\obj\Debug\HashSet.exe
+C:\Training\C# Revision\HashSet\HashSet\obj\Debug\HashSet.pdb

@@ -1,0 +1,8 @@
+C:\Training\C# Revision\FileHandling\BinaryWriter\BinaryWriter\bin\Debug\BinaryWriter.exe.config
+C:\Training\C# Revision\FileHandling\BinaryWriter\BinaryWriter\bin\Debug\BinaryWriter.exe
+C:\Training\C# Revision\FileHandling\BinaryWriter\BinaryWriter\bin\Debug\BinaryWriter.pdb
+C:\Training\C# Revision\FileHandling\BinaryWriter\BinaryWriter\obj\Debug\BinaryWriter.csproj.AssemblyReference.cache
+C:\Training\C# Revision\FileHandling\BinaryWriter\BinaryWriter\obj\Debug\BinaryWriter.csproj.SuggestedBindingRedirects.cache
+C:\Training\C# Revision\FileHandling\BinaryWriter\BinaryWriter\obj\Debug\BinaryWriter.csproj.CoreCompileInputs.cache
+C:\Training\C# Revision\FileHandling\BinaryWriter\BinaryWriter\obj\Debug\BinaryWriter.exe
+C:\Training\C# Revision\FileHandling\BinaryWriter\BinaryWriter\obj\Debug\BinaryWriter.pdb

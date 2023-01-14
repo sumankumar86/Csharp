@@ -1,0 +1,8 @@
+C:\Training\C# Revision\FileHandling\StringWriter\StringWriter\bin\Debug\StringWriter.exe.config
+C:\Training\C# Revision\FileHandling\StringWriter\StringWriter\bin\Debug\StringWriter.exe
+C:\Training\C# Revision\FileHandling\StringWriter\StringWriter\bin\Debug\StringWriter.pdb
+C:\Training\C# Revision\FileHandling\StringWriter\StringWriter\obj\Debug\StringWriter.csproj.AssemblyReference.cache
+C:\Training\C# Revision\FileHandling\StringWriter\StringWriter\obj\Debug\StringWriter.csproj.SuggestedBindingRedirects.cache
+C:\Training\C# Revision\FileHandling\StringWriter\StringWriter\obj\Debug\StringWriter.csproj.CoreCompileInputs.cache
+C:\Training\C# Revision\FileHandling\StringWriter\StringWriter\obj\Debug\StringWriter.exe
+C:\Training\C# Revision\FileHandling\StringWriter\StringWriter\obj\Debug\StringWriter.pdb

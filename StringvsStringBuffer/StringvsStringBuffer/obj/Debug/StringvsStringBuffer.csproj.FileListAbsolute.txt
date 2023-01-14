@@ -1,0 +1,8 @@
+C:\Training\C# Revision\StringvsStringBuffer\StringvsStringBuffer\bin\Debug\StringvsStringBuffer.exe.config
+C:\Training\C# Revision\StringvsStringBuffer\StringvsStringBuffer\bin\Debug\StringvsStringBuffer.exe
+C:\Training\C# Revision\StringvsStringBuffer\StringvsStringBuffer\bin\Debug\StringvsStringBuffer.pdb
+C:\Training\C# Revision\StringvsStringBuffer\StringvsStringBuffer\obj\Debug\StringvsStringBuffer.csproj.AssemblyReference.cache
+C:\Training\C# Revision\StringvsStringBuffer\StringvsStringBuffer\obj\Debug\StringvsStringBuffer.csproj.SuggestedBindingRedirects.cache
+C:\Training\C# Revision\StringvsStringBuffer\StringvsStringBuffer\obj\Debug\StringvsStringBuffer.csproj.CoreCompileInputs.cache
+C:\Training\C# Revision\StringvsStringBuffer\StringvsStringBuffer\obj\Debug\StringvsStringBuffer.exe
+C:\Training\C# Revision\StringvsStringBuffer\StringvsStringBuffer\obj\Debug\StringvsStringBuffer.pdb

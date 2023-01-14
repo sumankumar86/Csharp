@@ -1,0 +1,8 @@
+C:\Training\C# Revision\CallByValue\CallByValue\bin\Debug\CallByValue.exe.config
+C:\Training\C# Revision\CallByValue\CallByValue\bin\Debug\CallByValue.exe
+C:\Training\C# Revision\CallByValue\CallByValue\bin\Debug\CallByValue.pdb
+C:\Training\C# Revision\CallByValue\CallByValue\obj\Debug\CallByValue.csproj.AssemblyReference.cache
+C:\Training\C# Revision\CallByValue\CallByValue\obj\Debug\CallByValue.csproj.SuggestedBindingRedirects.cache
+C:\Training\C# Revision\CallByValue\CallByValue\obj\Debug\CallByValue.csproj.CoreCompileInputs.cache
+C:\Training\C# Revision\CallByValue\CallByValue\obj\Debug\CallByValue.exe
+C:\Training\C# Revision\CallByValue\CallByValue\obj\Debug\CallByValue.pdb

@@ -1,0 +1,8 @@
+C:\Training\C# Revision\SortedSetExmple\SortedSetExmple\bin\Debug\SortedSetExmple.exe.config
+C:\Training\C# Revision\SortedSetExmple\SortedSetExmple\bin\Debug\SortedSetExmple.exe
+C:\Training\C# Revision\SortedSetExmple\SortedSetExmple\bin\Debug\SortedSetExmple.pdb
+C:\Training\C# Revision\SortedSetExmple\SortedSetExmple\obj\Debug\SortedSetExmple.csproj.AssemblyReference.cache
+C:\Training\C# Revision\SortedSetExmple\SortedSetExmple\obj\Debug\SortedSetExmple.csproj.SuggestedBindingRedirects.cache
+C:\Training\C# Revision\SortedSetExmple\SortedSetExmple\obj\Debug\SortedSetExmple.csproj.CoreCompileInputs.cache
+C:\Training\C# Revision\SortedSetExmple\SortedSetExmple\obj\Debug\SortedSetExmple.exe
+C:\Training\C# Revision\SortedSetExmple\SortedSetExmple\obj\Debug\SortedSetExmple.pdb

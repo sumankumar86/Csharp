@@ -1,0 +1,8 @@
+C:\Training\C# Revision\StringReverse\StringReverse\bin\Debug\StringReverse.exe.config
+C:\Training\C# Revision\StringReverse\StringReverse\bin\Debug\StringReverse.exe
+C:\Training\C# Revision\StringReverse\StringReverse\bin\Debug\StringReverse.pdb
+C:\Training\C# Revision\StringReverse\StringReverse\obj\Debug\StringReverse.csproj.AssemblyReference.cache
+C:\Training\C# Revision\StringReverse\StringReverse\obj\Debug\StringReverse.csproj.SuggestedBindingRedirects.cache
+C:\Training\C# Revision\StringReverse\StringReverse\obj\Debug\StringReverse.csproj.CoreCompileInputs.cache
+C:\Training\C# Revision\StringReverse\StringReverse\obj\Debug\StringReverse.exe
+C:\Training\C# Revision\StringReverse\StringReverse\obj\Debug\StringReverse.pdb

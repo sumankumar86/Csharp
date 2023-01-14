@@ -1,0 +1,8 @@
+C:\Training\C# Revision\QueueExmple\QueueExmple\bin\Debug\QueueExmple.exe.config
+C:\Training\C# Revision\QueueExmple\QueueExmple\bin\Debug\QueueExmple.exe
+C:\Training\C# Revision\QueueExmple\QueueExmple\bin\Debug\QueueExmple.pdb
+C:\Training\C# Revision\QueueExmple\QueueExmple\obj\Debug\QueueExmple.csproj.AssemblyReference.cache
+C:\Training\C# Revision\QueueExmple\QueueExmple\obj\Debug\QueueExmple.csproj.SuggestedBindingRedirects.cache
+C:\Training\C# Revision\QueueExmple\QueueExmple\obj\Debug\QueueExmple.csproj.CoreCompileInputs.cache
+C:\Training\C# Revision\QueueExmple\QueueExmple\obj\Debug\QueueExmple.exe
+C:\Training\C# Revision\QueueExmple\QueueExmple\obj\Debug\QueueExmple.pdb

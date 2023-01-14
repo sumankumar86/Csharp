@@ -1,0 +1,8 @@
+C:\Training\C# Revision\gotoStatement\gotoStatement\bin\Debug\gotoStatement.exe.config
+C:\Training\C# Revision\gotoStatement\gotoStatement\bin\Debug\gotoStatement.exe
+C:\Training\C# Revision\gotoStatement\gotoStatement\bin\Debug\gotoStatement.pdb
+C:\Training\C# Revision\gotoStatement\gotoStatement\obj\Debug\gotoStatement.csproj.AssemblyReference.cache
+C:\Training\C# Revision\gotoStatement\gotoStatement\obj\Debug\gotoStatement.csproj.SuggestedBindingRedirects.cache
+C:\Training\C# Revision\gotoStatement\gotoStatement\obj\Debug\gotoStatement.csproj.CoreCompileInputs.cache
+C:\Training\C# Revision\gotoStatement\gotoStatement\obj\Debug\gotoStatement.exe
+C:\Training\C# Revision\gotoStatement\gotoStatement\obj\Debug\gotoStatement.pdb

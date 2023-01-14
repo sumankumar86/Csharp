@@ -1,0 +1,8 @@
+C:\Training\C# Revision\ClassObjectExm\ClassObjectExm\bin\Debug\ClassObjectExm.exe.config
+C:\Training\C# Revision\ClassObjectExm\ClassObjectExm\bin\Debug\ClassObjectExm.exe
+C:\Training\C# Revision\ClassObjectExm\ClassObjectExm\bin\Debug\ClassObjectExm.pdb
+C:\Training\C# Revision\ClassObjectExm\ClassObjectExm\obj\Debug\ClassObjectExm.csproj.AssemblyReference.cache
+C:\Training\C# Revision\ClassObjectExm\ClassObjectExm\obj\Debug\ClassObjectExm.csproj.SuggestedBindingRedirects.cache
+C:\Training\C# Revision\ClassObjectExm\ClassObjectExm\obj\Debug\ClassObjectExm.csproj.CoreCompileInputs.cache
+C:\Training\C# Revision\ClassObjectExm\ClassObjectExm\obj\Debug\ClassObjectExm.exe
+C:\Training\C# Revision\ClassObjectExm\ClassObjectExm\obj\Debug\ClassObjectExm.pdb

@@ -1,0 +1,8 @@
+C:\Training\C# Revision\ArrayReverse\ArrayReverse\bin\Debug\ArrayReverse.exe.config
+C:\Training\C# Revision\ArrayReverse\ArrayReverse\bin\Debug\ArrayReverse.exe
+C:\Training\C# Revision\ArrayReverse\ArrayReverse\bin\Debug\ArrayReverse.pdb
+C:\Training\C# Revision\ArrayReverse\ArrayReverse\obj\Debug\ArrayReverse.csproj.AssemblyReference.cache
+C:\Training\C# Revision\ArrayReverse\ArrayReverse\obj\Debug\ArrayReverse.csproj.SuggestedBindingRedirects.cache
+C:\Training\C# Revision\ArrayReverse\ArrayReverse\obj\Debug\ArrayReverse.csproj.CoreCompileInputs.cache
+C:\Training\C# Revision\ArrayReverse\ArrayReverse\obj\Debug\ArrayReverse.exe
+C:\Training\C# Revision\ArrayReverse\ArrayReverse\obj\Debug\ArrayReverse.pdb

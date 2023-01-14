@@ -1,0 +1,8 @@
+C:\Training\C# Revision\FileHandling\BinaryReader\BinaryReader\bin\Debug\BinaryReader.exe.config
+C:\Training\C# Revision\FileHandling\BinaryReader\BinaryReader\bin\Debug\BinaryReader.exe
+C:\Training\C# Revision\FileHandling\BinaryReader\BinaryReader\bin\Debug\BinaryReader.pdb
+C:\Training\C# Revision\FileHandling\BinaryReader\BinaryReader\obj\Debug\BinaryReader.csproj.AssemblyReference.cache
+C:\Training\C# Revision\FileHandling\BinaryReader\BinaryReader\obj\Debug\BinaryReader.csproj.SuggestedBindingRedirects.cache
+C:\Training\C# Revision\FileHandling\BinaryReader\BinaryReader\obj\Debug\BinaryReader.csproj.CoreCompileInputs.cache
+C:\Training\C# Revision\FileHandling\BinaryReader\BinaryReader\obj\Debug\BinaryReader.exe
+C:\Training\C# Revision\FileHandling\BinaryReader\BinaryReader\obj\Debug\BinaryReader.pdb

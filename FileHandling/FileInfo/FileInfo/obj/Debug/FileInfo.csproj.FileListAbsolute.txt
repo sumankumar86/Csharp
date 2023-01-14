@@ -1,0 +1,8 @@
+C:\Training\C# Revision\FileHandling\FileInfo\FileInfo\bin\Debug\FileInfo.exe.config
+C:\Training\C# Revision\FileHandling\FileInfo\FileInfo\bin\Debug\FileInfo.exe
+C:\Training\C# Revision\FileHandling\FileInfo\FileInfo\bin\Debug\FileInfo.pdb
+C:\Training\C# Revision\FileHandling\FileInfo\FileInfo\obj\Debug\FileInfo.csproj.AssemblyReference.cache
+C:\Training\C# Revision\FileHandling\FileInfo\FileInfo\obj\Debug\FileInfo.csproj.SuggestedBindingRedirects.cache
+C:\Training\C# Revision\FileHandling\FileInfo\FileInfo\obj\Debug\FileInfo.csproj.CoreCompileInputs.cache
+C:\Training\C# Revision\FileHandling\FileInfo\FileInfo\obj\Debug\FileInfo.exe
+C:\Training\C# Revision\FileHandling\FileInfo\FileInfo\obj\Debug\FileInfo.pdb

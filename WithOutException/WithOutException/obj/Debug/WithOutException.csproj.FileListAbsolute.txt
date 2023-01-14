@@ -1,0 +1,8 @@
+C:\Training\C# Revision\WithOutException\WithOutException\bin\Debug\WithOutException.exe.config
+C:\Training\C# Revision\WithOutException\WithOutException\bin\Debug\WithOutException.exe
+C:\Training\C# Revision\WithOutException\WithOutException\bin\Debug\WithOutException.pdb
+C:\Training\C# Revision\WithOutException\WithOutException\obj\Debug\WithOutException.csproj.AssemblyReference.cache
+C:\Training\C# Revision\WithOutException\WithOutException\obj\Debug\WithOutException.csproj.SuggestedBindingRedirects.cache
+C:\Training\C# Revision\WithOutException\WithOutException\obj\Debug\WithOutException.csproj.CoreCompileInputs.cache
+C:\Training\C# Revision\WithOutException\WithOutException\obj\Debug\WithOutException.exe
+C:\Training\C# Revision\WithOutException\WithOutException\obj\Debug\WithOutException.pdb

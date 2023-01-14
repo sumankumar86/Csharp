@@ -1,0 +1,8 @@
+C:\Training\C# Revision\CheckUncheckException\CheckUncheckException\bin\Debug\CheckUncheckException.exe.config
+C:\Training\C# Revision\CheckUncheckException\CheckUncheckException\bin\Debug\CheckUncheckException.exe
+C:\Training\C# Revision\CheckUncheckException\CheckUncheckException\bin\Debug\CheckUncheckException.pdb
+C:\Training\C# Revision\CheckUncheckException\CheckUncheckException\obj\Debug\CheckUncheckException.csproj.AssemblyReference.cache
+C:\Training\C# Revision\CheckUncheckException\CheckUncheckException\obj\Debug\CheckUncheckException.csproj.SuggestedBindingRedirects.cache
+C:\Training\C# Revision\CheckUncheckException\CheckUncheckException\obj\Debug\CheckUncheckException.csproj.CoreCompileInputs.cache
+C:\Training\C# Revision\CheckUncheckException\CheckUncheckException\obj\Debug\CheckUncheckException.exe
+C:\Training\C# Revision\CheckUncheckException\CheckUncheckException\obj\Debug\CheckUncheckException.pdb

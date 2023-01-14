@@ -1,0 +1,8 @@
+C:\Training\C# Revision\FileHandling\TextReaderWriter\TextReaderWriter\bin\Debug\TextReaderWriter.exe.config
+C:\Training\C# Revision\FileHandling\TextReaderWriter\TextReaderWriter\bin\Debug\TextReaderWriter.exe
+C:\Training\C# Revision\FileHandling\TextReaderWriter\TextReaderWriter\bin\Debug\TextReaderWriter.pdb
+C:\Training\C# Revision\FileHandling\TextReaderWriter\TextReaderWriter\obj\Debug\TextReaderWriter.csproj.AssemblyReference.cache
+C:\Training\C# Revision\FileHandling\TextReaderWriter\TextReaderWriter\obj\Debug\TextReaderWriter.csproj.SuggestedBindingRedirects.cache
+C:\Training\C# Revision\FileHandling\TextReaderWriter\TextReaderWriter\obj\Debug\TextReaderWriter.csproj.CoreCompileInputs.cache
+C:\Training\C# Revision\FileHandling\TextReaderWriter\TextReaderWriter\obj\Debug\TextReaderWriter.exe
+C:\Training\C# Revision\FileHandling\TextReaderWriter\TextReaderWriter\obj\Debug\TextReaderWriter.pdb

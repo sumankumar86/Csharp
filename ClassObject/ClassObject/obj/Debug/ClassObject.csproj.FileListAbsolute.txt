@@ -1,0 +1,8 @@
+C:\Training\C# Revision\ClassObject\ClassObject\bin\Debug\ClassObject.exe.config
+C:\Training\C# Revision\ClassObject\ClassObject\bin\Debug\ClassObject.exe
+C:\Training\C# Revision\ClassObject\ClassObject\bin\Debug\ClassObject.pdb
+C:\Training\C# Revision\ClassObject\ClassObject\obj\Debug\ClassObject.csproj.AssemblyReference.cache
+C:\Training\C# Revision\ClassObject\ClassObject\obj\Debug\ClassObject.csproj.SuggestedBindingRedirects.cache
+C:\Training\C# Revision\ClassObject\ClassObject\obj\Debug\ClassObject.csproj.CoreCompileInputs.cache
+C:\Training\C# Revision\ClassObject\ClassObject\obj\Debug\ClassObject.exe
+C:\Training\C# Revision\ClassObject\ClassObject\obj\Debug\ClassObject.pdb

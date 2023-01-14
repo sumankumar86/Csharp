@@ -1,0 +1,8 @@
+C:\Training\C# Revision\FileHandling\StreamWriter\StreamWriter\bin\Debug\StreamWriter.exe.config
+C:\Training\C# Revision\FileHandling\StreamWriter\StreamWriter\bin\Debug\StreamWriter.exe
+C:\Training\C# Revision\FileHandling\StreamWriter\StreamWriter\bin\Debug\StreamWriter.pdb
+C:\Training\C# Revision\FileHandling\StreamWriter\StreamWriter\obj\Debug\StreamWriter.csproj.AssemblyReference.cache
+C:\Training\C# Revision\FileHandling\StreamWriter\StreamWriter\obj\Debug\StreamWriter.csproj.SuggestedBindingRedirects.cache
+C:\Training\C# Revision\FileHandling\StreamWriter\StreamWriter\obj\Debug\StreamWriter.csproj.CoreCompileInputs.cache
+C:\Training\C# Revision\FileHandling\StreamWriter\StreamWriter\obj\Debug\StreamWriter.exe
+C:\Training\C# Revision\FileHandling\StreamWriter\StreamWriter\obj\Debug\StreamWriter.pdb

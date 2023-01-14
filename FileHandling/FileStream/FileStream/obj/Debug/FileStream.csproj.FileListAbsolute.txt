@@ -1,0 +1,8 @@
+C:\Training\C# Revision\FileHandling\FileStream\FileStream\bin\Debug\FileStream.exe.config
+C:\Training\C# Revision\FileHandling\FileStream\FileStream\bin\Debug\FileStream.exe
+C:\Training\C# Revision\FileHandling\FileStream\FileStream\bin\Debug\FileStream.pdb
+C:\Training\C# Revision\FileHandling\FileStream\FileStream\obj\Debug\FileStream.csproj.AssemblyReference.cache
+C:\Training\C# Revision\FileHandling\FileStream\FileStream\obj\Debug\FileStream.csproj.SuggestedBindingRedirects.cache
+C:\Training\C# Revision\FileHandling\FileStream\FileStream\obj\Debug\FileStream.csproj.CoreCompileInputs.cache
+C:\Training\C# Revision\FileHandling\FileStream\FileStream\obj\Debug\FileStream.exe
+C:\Training\C# Revision\FileHandling\FileStream\FileStream\obj\Debug\FileStream.pdb

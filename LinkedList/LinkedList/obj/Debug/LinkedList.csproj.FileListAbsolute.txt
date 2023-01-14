@@ -1,0 +1,8 @@
+C:\Training\C# Revision\LinkedList\LinkedList\bin\Debug\LinkedList.exe.config
+C:\Training\C# Revision\LinkedList\LinkedList\bin\Debug\LinkedList.exe
+C:\Training\C# Revision\LinkedList\LinkedList\bin\Debug\LinkedList.pdb
+C:\Training\C# Revision\LinkedList\LinkedList\obj\Debug\LinkedList.csproj.AssemblyReference.cache
+C:\Training\C# Revision\LinkedList\LinkedList\obj\Debug\LinkedList.csproj.SuggestedBindingRedirects.cache
+C:\Training\C# Revision\LinkedList\LinkedList\obj\Debug\LinkedList.csproj.CoreCompileInputs.cache
+C:\Training\C# Revision\LinkedList\LinkedList\obj\Debug\LinkedList.exe
+C:\Training\C# Revision\LinkedList\LinkedList\obj\Debug\LinkedList.pdb

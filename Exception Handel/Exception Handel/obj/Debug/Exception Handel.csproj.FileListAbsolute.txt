@@ -1,0 +1,8 @@
+C:\Training\C# Revision\Exception Handel\Exception Handel\bin\Debug\Exception Handel.exe.config
+C:\Training\C# Revision\Exception Handel\Exception Handel\bin\Debug\Exception Handel.exe
+C:\Training\C# Revision\Exception Handel\Exception Handel\bin\Debug\Exception Handel.pdb
+C:\Training\C# Revision\Exception Handel\Exception Handel\obj\Debug\Exception Handel.csproj.AssemblyReference.cache
+C:\Training\C# Revision\Exception Handel\Exception Handel\obj\Debug\Exception Handel.csproj.SuggestedBindingRedirects.cache
+C:\Training\C# Revision\Exception Handel\Exception Handel\obj\Debug\Exception Handel.csproj.CoreCompileInputs.cache
+C:\Training\C# Revision\Exception Handel\Exception Handel\obj\Debug\Exception Handel.exe
+C:\Training\C# Revision\Exception Handel\Exception Handel\obj\Debug\Exception Handel.pdb

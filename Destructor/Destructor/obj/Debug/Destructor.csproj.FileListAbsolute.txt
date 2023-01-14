@@ -1,0 +1,8 @@
+C:\Training\C# Revision\Destructor\Destructor\bin\Debug\Destructor.exe.config
+C:\Training\C# Revision\Destructor\Destructor\bin\Debug\Destructor.exe
+C:\Training\C# Revision\Destructor\Destructor\bin\Debug\Destructor.pdb
+C:\Training\C# Revision\Destructor\Destructor\obj\Debug\Destructor.csproj.AssemblyReference.cache
+C:\Training\C# Revision\Destructor\Destructor\obj\Debug\Destructor.csproj.SuggestedBindingRedirects.cache
+C:\Training\C# Revision\Destructor\Destructor\obj\Debug\Destructor.csproj.CoreCompileInputs.cache
+C:\Training\C# Revision\Destructor\Destructor\obj\Debug\Destructor.exe
+C:\Training\C# Revision\Destructor\Destructor\obj\Debug\Destructor.pdb

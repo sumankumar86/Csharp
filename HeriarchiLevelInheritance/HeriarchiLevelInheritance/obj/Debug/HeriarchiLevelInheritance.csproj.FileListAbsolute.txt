@@ -1,0 +1,8 @@
+C:\Training\C# Revision\HeriarchiLevelInheritance\HeriarchiLevelInheritance\bin\Debug\HeriarchiLevelInheritance.exe.config
+C:\Training\C# Revision\HeriarchiLevelInheritance\HeriarchiLevelInheritance\bin\Debug\HeriarchiLevelInheritance.exe
+C:\Training\C# Revision\HeriarchiLevelInheritance\HeriarchiLevelInheritance\bin\Debug\HeriarchiLevelInheritance.pdb
+C:\Training\C# Revision\HeriarchiLevelInheritance\HeriarchiLevelInheritance\obj\Debug\HeriarchiLevelInheritance.csproj.AssemblyReference.cache
+C:\Training\C# Revision\HeriarchiLevelInheritance\HeriarchiLevelInheritance\obj\Debug\HeriarchiLevelInheritance.csproj.SuggestedBindingRedirects.cache
+C:\Training\C# Revision\HeriarchiLevelInheritance\HeriarchiLevelInheritance\obj\Debug\HeriarchiLevelInheritance.csproj.CoreCompileInputs.cache
+C:\Training\C# Revision\HeriarchiLevelInheritance\HeriarchiLevelInheritance\obj\Debug\HeriarchiLevelInheritance.exe
+C:\Training\C# Revision\HeriarchiLevelInheritance\HeriarchiLevelInheritance\obj\Debug\HeriarchiLevelInheritance.pdb

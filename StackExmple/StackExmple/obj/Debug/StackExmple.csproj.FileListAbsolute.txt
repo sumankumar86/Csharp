@@ -1,0 +1,8 @@
+C:\Training\C# Revision\StackExmple\StackExmple\bin\Debug\StackExmple.exe.config
+C:\Training\C# Revision\StackExmple\StackExmple\bin\Debug\StackExmple.exe
+C:\Training\C# Revision\StackExmple\StackExmple\bin\Debug\StackExmple.pdb
+C:\Training\C# Revision\StackExmple\StackExmple\obj\Debug\StackExmple.csproj.AssemblyReference.cache
+C:\Training\C# Revision\StackExmple\StackExmple\obj\Debug\StackExmple.csproj.SuggestedBindingRedirects.cache
+C:\Training\C# Revision\StackExmple\StackExmple\obj\Debug\StackExmple.csproj.CoreCompileInputs.cache
+C:\Training\C# Revision\StackExmple\StackExmple\obj\Debug\StackExmple.exe
+C:\Training\C# Revision\StackExmple\StackExmple\obj\Debug\StackExmple.pdb

@@ -1,0 +1,8 @@
+C:\Training\C# Revision\MulticastdelegatereturnValue\MulticastdelegatereturnValue\bin\Debug\MulticastdelegatereturnValue.exe.config
+C:\Training\C# Revision\MulticastdelegatereturnValue\MulticastdelegatereturnValue\bin\Debug\MulticastdelegatereturnValue.exe
+C:\Training\C# Revision\MulticastdelegatereturnValue\MulticastdelegatereturnValue\bin\Debug\MulticastdelegatereturnValue.pdb
+C:\Training\C# Revision\MulticastdelegatereturnValue\MulticastdelegatereturnValue\obj\Debug\MulticastdelegatereturnValue.csproj.AssemblyReference.cache
+C:\Training\C# Revision\MulticastdelegatereturnValue\MulticastdelegatereturnValue\obj\Debug\MulticastdelegatereturnValue.csproj.SuggestedBindingRedirects.cache
+C:\Training\C# Revision\MulticastdelegatereturnValue\MulticastdelegatereturnValue\obj\Debug\MulticastdelegatereturnValue.csproj.CoreCompileInputs.cache
+C:\Training\C# Revision\MulticastdelegatereturnValue\MulticastdelegatereturnValue\obj\Debug\MulticastdelegatereturnValue.exe
+C:\Training\C# Revision\MulticastdelegatereturnValue\MulticastdelegatereturnValue\obj\Debug\MulticastdelegatereturnValue.pdb

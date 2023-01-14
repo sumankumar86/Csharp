@@ -1,0 +1,8 @@
+C:\Training\C# Revision\ArrayList\ArrayList\obj\Debug\ArrayList.csproj.AssemblyReference.cache
+C:\Training\C# Revision\ArrayList\ArrayList\obj\Debug\ArrayList.csproj.SuggestedBindingRedirects.cache
+C:\Training\C# Revision\ArrayList\ArrayList\obj\Debug\ArrayList.csproj.CoreCompileInputs.cache
+C:\Training\C# Revision\ArrayList\ArrayList\bin\Debug\ArrayList.exe.config
+C:\Training\C# Revision\ArrayList\ArrayList\bin\Debug\ArrayList.exe
+C:\Training\C# Revision\ArrayList\ArrayList\bin\Debug\ArrayList.pdb
+C:\Training\C# Revision\ArrayList\ArrayList\obj\Debug\ArrayList.exe
+C:\Training\C# Revision\ArrayList\ArrayList\obj\Debug\ArrayList.pdb

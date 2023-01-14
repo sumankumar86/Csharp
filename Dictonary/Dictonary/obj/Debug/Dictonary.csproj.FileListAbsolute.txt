@@ -1,0 +1,8 @@
+C:\Training\C# Revision\Dictonary\Dictonary\bin\Debug\Dictonary.exe.config
+C:\Training\C# Revision\Dictonary\Dictonary\bin\Debug\Dictonary.exe
+C:\Training\C# Revision\Dictonary\Dictonary\bin\Debug\Dictonary.pdb
+C:\Training\C# Revision\Dictonary\Dictonary\obj\Debug\Dictonary.csproj.AssemblyReference.cache
+C:\Training\C# Revision\Dictonary\Dictonary\obj\Debug\Dictonary.csproj.SuggestedBindingRedirects.cache
+C:\Training\C# Revision\Dictonary\Dictonary\obj\Debug\Dictonary.csproj.CoreCompileInputs.cache
+C:\Training\C# Revision\Dictonary\Dictonary\obj\Debug\Dictonary.exe
+C:\Training\C# Revision\Dictonary\Dictonary\obj\Debug\Dictonary.pdb

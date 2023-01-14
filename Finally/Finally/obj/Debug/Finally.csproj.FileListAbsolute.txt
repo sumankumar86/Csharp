@@ -1,0 +1,8 @@
+C:\Training\C# Revision\Finally\Finally\bin\Debug\Finally.exe.config
+C:\Training\C# Revision\Finally\Finally\bin\Debug\Finally.exe
+C:\Training\C# Revision\Finally\Finally\bin\Debug\Finally.pdb
+C:\Training\C# Revision\Finally\Finally\obj\Debug\Finally.csproj.AssemblyReference.cache
+C:\Training\C# Revision\Finally\Finally\obj\Debug\Finally.csproj.SuggestedBindingRedirects.cache
+C:\Training\C# Revision\Finally\Finally\obj\Debug\Finally.csproj.CoreCompileInputs.cache
+C:\Training\C# Revision\Finally\Finally\obj\Debug\Finally.exe
+C:\Training\C# Revision\Finally\Finally\obj\Debug\Finally.pdb

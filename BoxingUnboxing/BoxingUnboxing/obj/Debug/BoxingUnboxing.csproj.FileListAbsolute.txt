@@ -1,0 +1,8 @@
+C:\Training\C# Revision\BoxingUnboxing\BoxingUnboxing\bin\Debug\BoxingUnboxing.exe.config
+C:\Training\C# Revision\BoxingUnboxing\BoxingUnboxing\bin\Debug\BoxingUnboxing.exe
+C:\Training\C# Revision\BoxingUnboxing\BoxingUnboxing\bin\Debug\BoxingUnboxing.pdb
+C:\Training\C# Revision\BoxingUnboxing\BoxingUnboxing\obj\Debug\BoxingUnboxing.csproj.AssemblyReference.cache
+C:\Training\C# Revision\BoxingUnboxing\BoxingUnboxing\obj\Debug\BoxingUnboxing.csproj.SuggestedBindingRedirects.cache
+C:\Training\C# Revision\BoxingUnboxing\BoxingUnboxing\obj\Debug\BoxingUnboxing.csproj.CoreCompileInputs.cache
+C:\Training\C# Revision\BoxingUnboxing\BoxingUnboxing\obj\Debug\BoxingUnboxing.exe
+C:\Training\C# Revision\BoxingUnboxing\BoxingUnboxing\obj\Debug\BoxingUnboxing.pdb

@@ -1,0 +1,8 @@
+C:\Training\C# Revision\Inheritance(SingleLevel)\Inheritance(SingleLevel)\bin\Debug\Inheritance(SingleLevel).exe.config
+C:\Training\C# Revision\Inheritance(SingleLevel)\Inheritance(SingleLevel)\bin\Debug\Inheritance(SingleLevel).exe
+C:\Training\C# Revision\Inheritance(SingleLevel)\Inheritance(SingleLevel)\bin\Debug\Inheritance(SingleLevel).pdb
+C:\Training\C# Revision\Inheritance(SingleLevel)\Inheritance(SingleLevel)\obj\Debug\Inheritance(SingleLevel).csproj.AssemblyReference.cache
+C:\Training\C# Revision\Inheritance(SingleLevel)\Inheritance(SingleLevel)\obj\Debug\Inheritance(SingleLevel).csproj.SuggestedBindingRedirects.cache
+C:\Training\C# Revision\Inheritance(SingleLevel)\Inheritance(SingleLevel)\obj\Debug\Inheritance(SingleLevel).csproj.CoreCompileInputs.cache
+C:\Training\C# Revision\Inheritance(SingleLevel)\Inheritance(SingleLevel)\obj\Debug\Inheritance(SingleLevel).exe
+C:\Training\C# Revision\Inheritance(SingleLevel)\Inheritance(SingleLevel)\obj\Debug\Inheritance(SingleLevel).pdb

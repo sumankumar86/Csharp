@@ -1,0 +1,8 @@
+C:\Training\C# Revision\GenericDelegate\GenericDelegate\bin\Debug\GenericDelegate.exe.config
+C:\Training\C# Revision\GenericDelegate\GenericDelegate\bin\Debug\GenericDelegate.exe
+C:\Training\C# Revision\GenericDelegate\GenericDelegate\bin\Debug\GenericDelegate.pdb
+C:\Training\C# Revision\GenericDelegate\GenericDelegate\obj\Debug\GenericDelegate.csproj.AssemblyReference.cache
+C:\Training\C# Revision\GenericDelegate\GenericDelegate\obj\Debug\GenericDelegate.csproj.SuggestedBindingRedirects.cache
+C:\Training\C# Revision\GenericDelegate\GenericDelegate\obj\Debug\GenericDelegate.csproj.CoreCompileInputs.cache
+C:\Training\C# Revision\GenericDelegate\GenericDelegate\obj\Debug\GenericDelegate.exe
+C:\Training\C# Revision\GenericDelegate\GenericDelegate\obj\Debug\GenericDelegate.pdb

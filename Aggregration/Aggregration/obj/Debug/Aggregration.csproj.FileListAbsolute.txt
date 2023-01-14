@@ -1,0 +1,8 @@
+C:\Training\C# Revision\Aggregration\Aggregration\bin\Debug\Aggregration.exe.config
+C:\Training\C# Revision\Aggregration\Aggregration\bin\Debug\Aggregration.exe
+C:\Training\C# Revision\Aggregration\Aggregration\bin\Debug\Aggregration.pdb
+C:\Training\C# Revision\Aggregration\Aggregration\obj\Debug\Aggregration.csproj.AssemblyReference.cache
+C:\Training\C# Revision\Aggregration\Aggregration\obj\Debug\Aggregration.csproj.SuggestedBindingRedirects.cache
+C:\Training\C# Revision\Aggregration\Aggregration\obj\Debug\Aggregration.csproj.CoreCompileInputs.cache
+C:\Training\C# Revision\Aggregration\Aggregration\obj\Debug\Aggregration.exe
+C:\Training\C# Revision\Aggregration\Aggregration\obj\Debug\Aggregration.pdb
