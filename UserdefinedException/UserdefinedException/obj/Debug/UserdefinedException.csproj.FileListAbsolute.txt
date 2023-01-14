@@ -1,8 +1,0 @@
-C:\Training\C# Revision\UserdefinedException\UserdefinedException\bin\Debug\UserdefinedException.exe.config
-C:\Training\C# Revision\UserdefinedException\UserdefinedException\bin\Debug\UserdefinedException.exe
-C:\Training\C# Revision\UserdefinedException\UserdefinedException\bin\Debug\UserdefinedException.pdb
-C:\Training\C# Revision\UserdefinedException\UserdefinedException\obj\Debug\UserdefinedException.csproj.AssemblyReference.cache
-C:\Training\C# Revision\UserdefinedException\UserdefinedException\obj\Debug\UserdefinedException.csproj.SuggestedBindingRedirects.cache
-C:\Training\C# Revision\UserdefinedException\UserdefinedException\obj\Debug\UserdefinedException.csproj.CoreCompileInputs.cache
-C:\Training\C# Revision\UserdefinedException\UserdefinedException\obj\Debug\UserdefinedException.exe
-C:\Training\C# Revision\UserdefinedException\UserdefinedException\obj\Debug\UserdefinedException.pdb
