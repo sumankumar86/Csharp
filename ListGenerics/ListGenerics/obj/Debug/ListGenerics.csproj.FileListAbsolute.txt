@@ -1,0 +1,8 @@
+C:\Training\C# Revision\ListGenerics\ListGenerics\bin\Debug\ListGenerics.exe.config
+C:\Training\C# Revision\ListGenerics\ListGenerics\bin\Debug\ListGenerics.exe
+C:\Training\C# Revision\ListGenerics\ListGenerics\bin\Debug\ListGenerics.pdb
+C:\Training\C# Revision\ListGenerics\ListGenerics\obj\Debug\ListGenerics.csproj.AssemblyReference.cache
+C:\Training\C# Revision\ListGenerics\ListGenerics\obj\Debug\ListGenerics.csproj.SuggestedBindingRedirects.cache
+C:\Training\C# Revision\ListGenerics\ListGenerics\obj\Debug\ListGenerics.csproj.CoreCompileInputs.cache
+C:\Training\C# Revision\ListGenerics\ListGenerics\obj\Debug\ListGenerics.exe
+C:\Training\C# Revision\ListGenerics\ListGenerics\obj\Debug\ListGenerics.pdb
